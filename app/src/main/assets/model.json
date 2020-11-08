@@ -1,0 +1,722 @@
+[
+  {
+    "category": "Asuminen",
+    "category_rus": "Жилье",
+    "month": 12,
+    "year": 2020,
+    "customer_id": 3,
+    "amount": -34.43,
+    "balance": 22367.36
+  },
+  {
+    "category": "Asuminen",
+    "category_rus": "Жилье",
+    "month": 12,
+    "year": 2020,
+    "customer_id": 3,
+    "amount": -79.01,
+    "balance": 23943.2
+  },
+  {
+    "category": "Asuminen",
+    "category_rus": "Жилье",
+    "month": 12,
+    "year": 2020,
+    "customer_id": 3,
+    "amount": -10.59,
+    "balance": 23770.47
+  },
+  {
+    "category": "Asuminen",
+    "category_rus": "Жилье",
+    "month": 12,
+    "year": 2020,
+    "customer_id": 3,
+    "amount": -192.57,
+    "balance": 22812.98
+  },
+  {
+    "category": "Asuminen",
+    "category_rus": "Жилье",
+    "month": 12,
+    "year": 2020,
+    "customer_id": 3,
+    "amount": -37.92,
+    "balance": 22753.43
+  },
+  {
+    "category": "Tulot",
+    "category_rus": "Доход",
+    "month": 12,
+    "year": 2020,
+    "customer_id": 3,
+    "amount": 2749.46,
+    "balance": 25116.82
+  },
+  {
+    "category": "Tulot",
+    "category_rus": "Доход",
+    "month": 12,
+    "year": 2020,
+    "customer_id": 3,
+    "amount": 323.42,
+    "balance": 25440.24
+  },
+  {
+    "category": "Hyvinvointijakauneus",
+    "category_rus": "Красота",
+    "month": 12,
+    "year": 2020,
+    "customer_id": 3,
+    "amount": -13.81,
+    "balance": 25093.39
+  },
+  {
+    "category": "Lemmikit",
+    "category_rus": "Домашние питомцы",
+    "month": 12,
+    "year": 2020,
+    "customer_id": 3,
+    "amount": -47.41,
+    "balance": 25189.44
+  },
+  {
+    "category": "Lemmikit",
+    "category_rus": "Домашние питомцы",
+    "month": 12,
+    "year": 2020,
+    "customer_id": 3,
+    "amount": -23.93,
+    "balance": 25165.51
+  },
+  {
+    "category": "Muut",
+    "category_rus": "Другие",
+    "month": 12,
+    "year": 2020,
+    "customer_id": 3,
+    "amount": -89.94,
+    "balance": 25336.3
+  },
+  {
+    "category": "Ruoka_paivittaistavarakauppa",
+    "category_rus": "Продовольственные магазины",
+    "month": 12,
+    "year": 2020,
+    "customer_id": 3,
+    "amount": -39.32,
+    "balance": 25039.22
+  },
+  {
+    "category": "Ruoka_paivittaistavarakauppa",
+    "category_rus": "Продовольственные магазины",
+    "month": 12,
+    "year": 2020,
+    "customer_id": 3,
+    "amount": -3.94,
+    "balance": 24929.26
+  },
+  {
+    "category": "Tulot",
+    "category_rus": "Доход",
+    "month": 12,
+    "year": 2020,
+    "customer_id": 3,
+    "amount": 935.6,
+    "balance": 25252.33
+  },
+  {
+    "category": "Terveys",
+    "category_rus": "Здоровье",
+    "month": 12,
+    "year": 2020,
+    "customer_id": 3,
+    "amount": -12.07,
+    "balance": 24032.51
+  },
+  {
+    "category": "Terveys",
+    "category_rus": "Здоровье",
+    "month": 12,
+    "year": 2020,
+    "customer_id": 3,
+    "amount": -13.99,
+    "balance": 22798.99
+  },
+  {
+    "category": "Ruoka_paivittaistavarakauppa",
+    "category_rus": "Продовольственные магазины",
+    "month": 12,
+    "year": 2020,
+    "customer_id": 3,
+    "amount": -9.16,
+    "balance": 24920.1
+  },
+  {
+    "category": "Ruoka_paivittaistavarakauppa",
+    "category_rus": "Продовольственные магазины",
+    "month": 12,
+    "year": 2020,
+    "customer_id": 3,
+    "amount": -9.67,
+    "balance": 24910.43
+  },
+  {
+    "category": "Saastot_sijoitukset",
+    "category_rus": "Сбережения",
+    "month": 12,
+    "year": 2020,
+    "customer_id": 3,
+    "amount": -17.25,
+    "balance": 25021.97
+  },
+  {
+    "category": "Saastot_sijoitukset",
+    "category_rus": "Сбережения",
+    "month": 12,
+    "year": 2020,
+    "customer_id": 3,
+    "amount": -20.51,
+    "balance": 24474.3
+  },
+  {
+    "category": "Saastot_sijoitukset",
+    "category_rus": "Сбережения",
+    "month": 12,
+    "year": 2020,
+    "customer_id": 3,
+    "amount": -48.85,
+    "balance": 23871.18
+  },
+  {
+    "category": "Luottojen_maksut",
+    "category_rus": "Кредитные платежи",
+    "month": 12,
+    "year": 2020,
+    "customer_id": 3,
+    "amount": -19.33,
+    "balance": 24316.73
+  },
+  {
+    "category": "Harrastukset",
+    "category_rus": "Увлечения",
+    "month": 12,
+    "year": 2020,
+    "customer_id": 3,
+    "amount": -31.81,
+    "balance": 24354.93
+  },
+  {
+    "category": "Harrastukset",
+    "category_rus": "Увлечения",
+    "month": 12,
+    "year": 2020,
+    "customer_id": 3,
+    "amount": -12.28,
+    "balance": 22722.45
+  },
+  {
+    "category": "Hyvinvointijakauneus",
+    "category_rus": "Красота",
+    "month": 12,
+    "year": 2020,
+    "customer_id": 3,
+    "amount": -50.26,
+    "balance": 24386.74
+  },
+  {
+    "category": "Liikkuminen",
+    "category_rus": "Транспорт",
+    "month": 12,
+    "year": 2020,
+    "customer_id": 3,
+    "amount": -25.48,
+    "balance": 24933.2
+  },
+  {
+    "category": "Liikkuminen",
+    "category_rus": "Транспорт",
+    "month": 12,
+    "year": 2020,
+    "customer_id": 3,
+    "amount": -10.3,
+    "balance": 24022.21
+  },
+  {
+    "category": "Kulttuuri_viihde",
+    "category_rus": "Культура и Развлечения",
+    "month": 12,
+    "year": 2020,
+    "customer_id": 3,
+    "amount": -12.39,
+    "balance": 23311.98
+  },
+  {
+    "category": "Kulttuuri_viihde",
+    "category_rus": "Культура и Развлечения",
+    "month": 12,
+    "year": 2020,
+    "customer_id": 3,
+    "amount": -31.65,
+    "balance": 22690.8
+  },
+  {
+    "category": "Matkailu",
+    "category_rus": "Туризм",
+    "month": 12,
+    "year": 2020,
+    "customer_id": 3,
+    "amount": -218.82,
+    "balance": 24691.61
+  },
+  {
+    "category": "Matkailu",
+    "category_rus": "Туризм",
+    "month": 12,
+    "year": 2020,
+    "customer_id": 3,
+    "amount": -9.33,
+    "balance": 24044.58
+  },
+  {
+    "category": "Matkailu",
+    "category_rus": "Туризм",
+    "month": 12,
+    "year": 2020,
+    "customer_id": 3,
+    "amount": -14.16,
+    "balance": 23483
+  },
+  {
+    "category": "Luokittelemattomat",
+    "category_rus": "Без категории",
+    "month": 12,
+    "year": 2020,
+    "customer_id": 3,
+    "amount": -66.65,
+    "balance": 25185.68
+  },
+  {
+    "category": "Luokittelemattomat",
+    "category_rus": "Без категории",
+    "month": 12,
+    "year": 2020,
+    "customer_id": 3,
+    "amount": -1125.57,
+    "balance": 24060.11
+  },
+  {
+    "category": "Luokittelemattomat",
+    "category_rus": "Без категории",
+    "month": 12,
+    "year": 2020,
+    "customer_id": 3,
+    "amount": -166.13,
+    "balance": 23096.79
+  },
+  {
+    "category": "Muut",
+    "category_rus": "Другие",
+    "month": 12,
+    "year": 2020,
+    "customer_id": 3,
+    "amount": -9.79,
+    "balance": 23590.09
+  },
+  {
+    "category": "Muut",
+    "category_rus": "Другие",
+    "month": 12,
+    "year": 2020,
+    "customer_id": 3,
+    "amount": -6.52,
+    "balance": 23328.05
+  },
+  {
+    "category": "Muut",
+    "category_rus": "Другие",
+    "month": 12,
+    "year": 2020,
+    "customer_id": 3,
+    "amount": -16.98,
+    "balance": 22734.73
+  },
+  {
+    "category": "Ravintolat_kahvilat",
+    "category_rus": "Рестораны и кафе",
+    "month": 12,
+    "year": 2020,
+    "customer_id": 3,
+    "amount": -196.8,
+    "balance": 24494.81
+  },
+  {
+    "category": "Ravintolat_kahvilat",
+    "category_rus": "Рестораны и кафе",
+    "month": 12,
+    "year": 2020,
+    "customer_id": 3,
+    "amount": -8.15,
+    "balance": 24346.78
+  },
+  {
+    "category": "Ravintolat_kahvilat",
+    "category_rus": "Рестораны и кафе",
+    "month": 12,
+    "year": 2020,
+    "customer_id": 3,
+    "amount": -36.3,
+    "balance": 23832.23
+  },
+  {
+    "category": "Luottojen_maksut",
+    "category_rus": "Кредитные платежи",
+    "month": 12,
+    "year": 2020,
+    "customer_id": 3,
+    "amount": -53.44,
+    "balance": 23717.03
+  },
+  {
+    "category": "Shoppailu",
+    "category_rus": "Шоппинг",
+    "month": 12,
+    "year": 2020,
+    "customer_id": 3,
+    "amount": -63.29,
+    "balance": 24958.68
+  },
+  {
+    "category": "Shoppailu",
+    "category_rus": "Шоппинг",
+    "month": 12,
+    "year": 2020,
+    "customer_id": 3,
+    "amount": -36.77,
+    "balance": 23553.32
+  },
+  {
+    "category": "Luokittelemattomat",
+    "category_rus": "Без категории",
+    "month": 12,
+    "year": 2020,
+    "customer_id": 3,
+    "amount": -16.5,
+    "balance": 22477.62
+  },
+  {
+    "category": "Liikkuminen",
+    "category_rus": "Транспорт",
+    "month": 12,
+    "year": 2020,
+    "customer_id": 3,
+    "amount": -53.1,
+    "balance": 25236.85
+  },
+  {
+    "category": "Liikkuminen",
+    "category_rus": "Транспорт",
+    "month": 12,
+    "year": 2020,
+    "customer_id": 3,
+    "amount": -58.31,
+    "balance": 25107.2
+  },
+  {
+    "category": "Liikkuminen",
+    "category_rus": "Транспорт",
+    "month": 12,
+    "year": 2020,
+    "customer_id": 3,
+    "amount": -13.4,
+    "balance": 23298.58
+  },
+  {
+    "category": "Liikkuminen",
+    "category_rus": "Транспорт",
+    "month": 12,
+    "year": 2020,
+    "customer_id": 3,
+    "amount": -35.66,
+    "balance": 23262.92
+  },
+  {
+    "category": "Liikkuminen",
+    "category_rus": "Транспорт",
+    "month": 12,
+    "year": 2020,
+    "customer_id": 3,
+    "amount": -6.81,
+    "balance": 23020.57
+  },
+  {
+    "category": "Liikkuminen",
+    "category_rus": "Транспорт",
+    "month": 12,
+    "year": 2020,
+    "customer_id": 3,
+    "amount": -28.94,
+    "balance": 22602.87
+  },
+  {
+    "category": "Liikkuminen",
+    "category_rus": "Транспорт",
+    "month": 12,
+    "year": 2020,
+    "customer_id": 3,
+    "amount": -108.75,
+    "balance": 22494.12
+  },
+  {
+    "category": "Ravintolat_kahvilat",
+    "category_rus": "Рестораны и кафе",
+    "month": 12,
+    "year": 2020,
+    "customer_id": 3,
+    "amount": -86.66,
+    "balance": 23630.37
+  },
+  {
+    "category": "Ravintolat_kahvilat",
+    "category_rus": "Рестораны и кафе",
+    "month": 12,
+    "year": 2020,
+    "customer_id": 3,
+    "amount": -38.46,
+    "balance": 23514.86
+  },
+  {
+    "category": "Ravintolat_kahvilat",
+    "category_rus": "Рестораны и кафе",
+    "month": 12,
+    "year": 2020,
+    "customer_id": 3,
+    "amount": -3.68,
+    "balance": 23324.37
+  },
+  {
+    "category": "Ravintolat_kahvilat",
+    "category_rus": "Рестораны и кафе",
+    "month": 12,
+    "year": 2020,
+    "customer_id": 3,
+    "amount": -1.72,
+    "balance": 22751.71
+  },
+  {
+    "category": "Ruoka_paivittaistavarakauppa",
+    "category_rus": "Продовольственные магазины",
+    "month": 12,
+    "year": 2020,
+    "customer_id": 3,
+    "amount": -14,
+    "balance": 25426.24
+  },
+  {
+    "category": "Ruoka_paivittaistavarakauppa",
+    "category_rus": "Продовольственные магазины",
+    "month": 12,
+    "year": 2020,
+    "customer_id": 3,
+    "amount": -18.48,
+    "balance": 25317.82
+  },
+  {
+    "category": "Ruoka_paivittaistavarakauppa",
+    "category_rus": "Продовольственные магазины",
+    "month": 12,
+    "year": 2020,
+    "customer_id": 3,
+    "amount": -27.87,
+    "balance": 25289.95
+  },
+  {
+    "category": "Ruoka_paivittaistavarakauppa",
+    "category_rus": "Продовольственные магазины",
+    "month": 12,
+    "year": 2020,
+    "customer_id": 3,
+    "amount": -14.85,
+    "balance": 25078.54
+  },
+  {
+    "category": "Ruoka_paivittaistavarakauppa",
+    "category_rus": "Продовольственные магазины",
+    "month": 12,
+    "year": 2020,
+    "customer_id": 3,
+    "amount": -37.3,
+    "balance": 24437
+  },
+  {
+    "category": "Ruoka_paivittaistavarakauppa",
+    "category_rus": "Продовольственные магазины",
+    "month": 12,
+    "year": 2020,
+    "customer_id": 3,
+    "amount": -10.72,
+    "balance": 24336.06
+  },
+  {
+    "category": "Ruoka_paivittaistavarakauppa",
+    "category_rus": "Продовольственные магазины",
+    "month": 12,
+    "year": 2020,
+    "customer_id": 3,
+    "amount": -6.2,
+    "balance": 24053.91
+  },
+  {
+    "category": "Ruoka_paivittaistavarakauppa",
+    "category_rus": "Продовольственные магазины",
+    "month": 12,
+    "year": 2020,
+    "customer_id": 3,
+    "amount": -23.17,
+    "balance": 23920.03
+  },
+  {
+    "category": "Ruoka_paivittaistavarakauppa",
+    "category_rus": "Продовольственные магазины",
+    "month": 12,
+    "year": 2020,
+    "customer_id": 3,
+    "amount": -2.65,
+    "balance": 23868.53
+  },
+  {
+    "category": "Ruoka_paivittaistavarakauppa",
+    "category_rus": "Продовольственные магазины",
+    "month": 12,
+    "year": 2020,
+    "customer_id": 3,
+    "amount": -40.43,
+    "balance": 23791.8
+  },
+  {
+    "category": "Ruoka_paivittaistavarakauppa",
+    "category_rus": "Продовольственные магазины",
+    "month": 12,
+    "year": 2020,
+    "customer_id": 3,
+    "amount": -10.74,
+    "balance": 23781.06
+  },
+  {
+    "category": "Ruoka_paivittaistavarakauppa",
+    "category_rus": "Продовольственные магазины",
+    "month": 12,
+    "year": 2020,
+    "customer_id": 3,
+    "amount": -14.12,
+    "balance": 23616.25
+  },
+  {
+    "category": "Ruoka_paivittaistavarakauppa",
+    "category_rus": "Продовольственные магазины",
+    "month": 12,
+    "year": 2020,
+    "customer_id": 3,
+    "amount": -16.37,
+    "balance": 23599.88
+  },
+  {
+    "category": "Ruoka_paivittaistavarakauppa",
+    "category_rus": "Продовольственные магазины",
+    "month": 12,
+    "year": 2020,
+    "customer_id": 3,
+    "amount": -11.21,
+    "balance": 23503.65
+  },
+  {
+    "category": "Ruoka_paivittaistavarakauppa",
+    "category_rus": "Продовольственные магазины",
+    "month": 12,
+    "year": 2020,
+    "customer_id": 3,
+    "amount": -6.49,
+    "balance": 23497.16
+  },
+  {
+    "category": "Ruoka_paivittaistavarakauppa",
+    "category_rus": "Продовольственные магазины",
+    "month": 12,
+    "year": 2020,
+    "customer_id": 3,
+    "amount": -17.01,
+    "balance": 23465.99
+  },
+  {
+    "category": "Ruoka_paivittaistavarakauppa",
+    "category_rus": "Продовольственные магазины",
+    "month": 12,
+    "year": 2020,
+    "customer_id": 3,
+    "amount": -57.93,
+    "balance": 23408.06
+  },
+  {
+    "category": "Ruoka_paivittaistavarakauppa",
+    "category_rus": "Продовольственные магазины",
+    "month": 12,
+    "year": 2020,
+    "customer_id": 3,
+    "amount": -1.69,
+    "balance": 23406.37
+  },
+  {
+    "category": "Ruoka_paivittaistavarakauppa",
+    "category_rus": "Продовольственные магазины",
+    "month": 12,
+    "year": 2020,
+    "customer_id": 3,
+    "amount": -71.8,
+    "balance": 23334.57
+  },
+  {
+    "category": "Ruoka_paivittaistavarakauppa",
+    "category_rus": "Продовольственные магазины",
+    "month": 12,
+    "year": 2020,
+    "customer_id": 3,
+    "amount": -46.9,
+    "balance": 23049.89
+  },
+  {
+    "category": "Ruoka_paivittaistavarakauppa",
+    "category_rus": "Продовольственные магазины",
+    "month": 12,
+    "year": 2020,
+    "customer_id": 3,
+    "amount": -22.51,
+    "balance": 23027.38
+  },
+  {
+    "category": "Ruoka_paivittaistavarakauppa",
+    "category_rus": "Продовольственные магазины",
+    "month": 12,
+    "year": 2020,
+    "customer_id": 3,
+    "amount": -15.02,
+    "balance": 23005.55
+  },
+  {
+    "category": "Ruoka_paivittaistavarakauppa",
+    "category_rus": "Продовольственные магазины",
+    "month": 12,
+    "year": 2020,
+    "customer_id": 3,
+    "amount": -7.64,
+    "balance": 22791.35
+  },
+  {
+    "category": "Ruoka_paivittaistavarakauppa",
+    "category_rus": "Продовольственные магазины",
+    "month": 12,
+    "year": 2020,
+    "customer_id": 3,
+    "amount": -58.99,
+    "balance": 22631.81
+  }
+]

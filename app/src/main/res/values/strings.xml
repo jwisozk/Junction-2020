@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Sovest</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="label_monthly_limit">Monthly limit:</string>
+    <string name="sample_monthly_limit">30,000€</string>
+    <string name="label_daily_limit">Daily limit:</string>
+    <string name="sample_daily_limit">2,000€</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="good_days_in_a_row">Good days in a row:</string>
+    <string name="days_in_a_row_initial">0</string>
+    <string name="channel_name">Channel name</string>
+    <string name="channel_description">Channel description</string>
+</resources>
